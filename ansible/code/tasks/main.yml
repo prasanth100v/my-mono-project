@@ -1,5 +1,5 @@
 - name: getting code from dev
   git:
-    repo: ""
+    repo: "https://github.com/prasanth100v/my-mono-project.git"
     dest: /var/www/html
     version: frontend
