@@ -1,0 +1,5 @@
+- name: getting code from dev
+  git:
+    repo: ""
+    dest: /var/www/html
+    version: frontend
